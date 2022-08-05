@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-business-app/static/css/main.37855db8.css",
+    "main.js": "/react-business-app/static/js/main.da6e0f4d.js",
+    "static/media/Screenshot_41.png": "/react-business-app/static/media/Screenshot_41.7eb53c694c6379439b0f.png",
+    "static/media/icon-ig.svg": "/react-business-app/static/media/icon-ig.7d8ad7f9b33a773c27398cacfc5a97a3.svg",
+    "static/media/icon-github.svg": "/react-business-app/static/media/icon-github.23d6dfa78140e8017f08351385915806.svg",
+    "static/media/icon-twt.svg": "/react-business-app/static/media/icon-twt.3f40423293e1813898c7e26f729a0705.svg",
+    "static/media/icon-linkedin.svg": "/react-business-app/static/media/icon-linkedin.98ddfbfe9fc6a60e122d51faaeec4fc8.svg",
+    "static/media/icon-linkedin-white.svg": "/react-business-app/static/media/icon-linkedin-white.629bf92ee99b6aa01a5c2869b2d41378.svg",
+    "static/media/icon-fb.svg": "/react-business-app/static/media/icon-fb.00c353d38f22d18d3ff0962f9ce66f43.svg",
+    "static/media/icon-mail.svg": "/react-business-app/static/media/icon-mail.341d1e767b26e2540702fb63676d4501.svg",
+    "index.html": "/react-business-app/index.html",
+    "main.37855db8.css.map": "/react-business-app/static/css/main.37855db8.css.map",
+    "main.da6e0f4d.js.map": "/react-business-app/static/js/main.da6e0f4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37855db8.css",
+    "static/js/main.da6e0f4d.js"
+  ]
+}
