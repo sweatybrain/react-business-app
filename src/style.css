@@ -41,6 +41,7 @@ body {
     box-shadow: 0 1px 10px 1px black;
     margin: 0 20%;
     min-width: 350px;
+    max-width:500px;
     
     
 }
